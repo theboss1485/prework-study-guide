@@ -1,2 +1,2 @@
 # prework-study-guide
-A study guide for course pre-work
+OSU Coding Boot Camp Prework Study Guide for Students
